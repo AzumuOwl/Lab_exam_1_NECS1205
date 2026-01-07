@@ -6,7 +6,7 @@ export function useGalleryLogic() {
     const isLoading = ref(false);
     const page = ref(1); // เพิ่มตัวแปรหน้า
 
-    const ACCESS_KEY = 'txJbzDDr1L5o_yHxw252IcQI2H9eNIRbPrK7CvaO1vw';
+    const ACCESS_KEY = ' ใส่ Access_key ของ unsplash.com ';
 
     const fetchPhotos = async (isNewSearch = true) => {
         if (!query.value.trim()) return;
