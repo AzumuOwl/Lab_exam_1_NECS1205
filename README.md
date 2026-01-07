@@ -23,7 +23,7 @@
 * **Reactive State:** การใช้ `ref` จัดการสถานะ Loading, Error และผลลัพธ์รูปภาพ
 * **List Rendering:** การใช้ `v-for` เพื่อสร้างการ์ดรูปภาพตามจำนวนข้อมูลจริง
 
-### 3. การตกแต่งขั้นสูง (Advanced UI/UX)
+### 3. การตกแต่ง (Advanced UI/UX)
 
 * **CSS Aspect Ratio:** บังคับให้รูปภาพทุกรูปมีขนาดเท่ากันเป๊ะ (4:3) เพื่อความสวยงามของ Grid
 * **Animations:** ใช้ `@keyframes` สำหรับปุ่ม Like และ Vue `<Transition>` สำหรับ Modal
